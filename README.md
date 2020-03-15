@@ -1,2 +1,2 @@
 # logistic-regression
-#import library
+#import libraries
